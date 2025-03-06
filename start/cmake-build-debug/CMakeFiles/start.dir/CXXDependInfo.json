@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/a/Desktop/OOP/start/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/a/Desktop/OOP/start",
+	"dir-top-bld" : "C:/Users/a/Desktop/OOP/start/cmake-build-debug",
+	"dir-top-src" : "C:/Users/a/Desktop/OOP/start",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/a/Desktop/OOP/start/cmake-build-debug/CMakeFiles/start.dir"
+}
